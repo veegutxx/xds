@@ -1,0 +1,84 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 2339 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+15 TL
+/F2 15 Tf
+(EXPERT DECISION SYSTEMS ZIMBABWE \(XDS\)) Tj T*
+/F1 10 Tf
+(Information Security Policy \(ISSP\) Summary) Tj T*
+(8th Floor Pegasus House, Samora Machel, Harare, Zimbabwe | info@xds.co.zw) Tj T*
+(------------------------------------------------------------------------) Tj T*
+() Tj T*
+/F2 11 Tf
+(1. OVERVIEW) Tj T*
+/F1 10 Tf
+(XDS's objective is to be recognised as a trusted custodian of information,) Tj T*
+(particularly information supplied by subscribers, in all the markets it) Tj T*
+(operates in. This Information Security Policy \(ISSP\) plays an integral part) Tj T*
+(in XDS's objective of safeguarding all information in its possession.) Tj T*
+() Tj T*
+/F2 11 Tf
+(2. INFORMATION SECURITY MISSION) Tj T*
+/F1 10 Tf
+(XDS pledges that it will maintain a responsible approach to information) Tj T*
+(security, in line with best industry practice, complying with relevant) Tj T*
+(legislation, regulatory requirements and safeguarding confidentiality,) Tj T*
+(integrity and availability of customer and Company assets.) Tj T*
+(- Permit collection, use, disclosure and modification only in line with) Tj T*
+(  genuine business, legal, regulatory and contractual obligations.) Tj T*
+(- Protect the copyright of XDS, customer and other licensed software.) Tj T*
+(- Maintain the privacy of all personal and customer information.) Tj T*
+(- Establish the bona-fides of persons requesting access to information.) Tj T*
+(- Ensure security is commensurate with the value of protected information.) Tj T*
+(- Actively monitor access to identify breaches and enforce compliance.) Tj T*
+(- Safeguard information and systems against destruction or denial of use.) Tj T*
+() Tj T*
+/F2 11 Tf
+(3. INFORMATION ACCESS PHILOSOPHY) Tj T*
+/F1 10 Tf
+(All access to information by staff, customers and other third parties is) Tj T*
+(provided on the 'need to know' principle basis, in line with an approved) Tj T*
+(business function and necessary to the successful completion of that function.) Tj T*
+() Tj T*
+/F2 11 Tf
+(4. SCOPE OF INFORMATION SECURITY POLICY) Tj T*
+/F1 10 Tf
+(The Policy applies to all XDS employees and contractors irrespective of) Tj T*
+(geographic location. Any persons requiring access to information must adhere) Tj T*
+(to the general principles of this Policy and specific written agreements.) Tj T*
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2787
+%%EOF
